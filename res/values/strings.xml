@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">secured</string>
+    <string name="action_settings">Settings</string>
+   <string name="label_lock">lock</string>
+   <string name="txt_hint">Enter password</string>
+<string name="label_unlock">unlock</string>
+<string name="icon_image">Icon</string>
+    
+</resources>
